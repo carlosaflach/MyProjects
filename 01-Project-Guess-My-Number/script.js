@@ -39,33 +39,8 @@ document.querySelector('.check').addEventListener('click',function() {
       document.querySelector('.score').textContent = score;
       document.querySelector('.message').textContent = '😢 You lost the game!'
     }
-    // When guess is to high
   }
-  // Refactoring - Clean Code.
 
-  // else if (guess > secretNumber) {
-  //   if(score > 1) {
-  //     document.querySelector('.message').textContent = '⏫ Too high!!'
-  //     score = score -1;
-  //     document.querySelector('.score').textContent = score;
-  //   } else {
-  //     score = 0;
-  //     document.querySelector('.score').textContent = score;
-  //     document.querySelector('.message').textContent = '😢 You lost the game!'
-  //   }
-
-  //   // When guess is to low
-  // } else if (guess < secretNumber) {
-  //   if(score > 1) {
-  //     document.querySelector('.message').textContent = '⏬ Too low!!'
-  //     score = score -1;
-  //     document.querySelector('.score').textContent = score;
-  //   } else {
-  //     score = 0;
-  //     document.querySelector('.score').textContent = score;
-  //     document.querySelector('.message').textContent = '😢 You lost the game!'
-  //   }
-  // }
 });
 
 // When playing again.
