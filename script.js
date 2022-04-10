@@ -67,7 +67,8 @@ document.querySelector('.again').addEventListener('click', function() {
   numberSelector.textContent = '?';
   guessSelector.value = '';
 
-  body.style.backgroundColor = '#222'
+
+  bodySelector.style.backgroundColor = '#222'
 
   numberSelector.style.width = '15rem'
 });
