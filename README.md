@@ -13,3 +13,7 @@ In this project I used these skills:
 - JavaScript Logic
 - Handling Events
 - Manipulating CSS Styles
+
+### Get To Know The Project
+
+- Live Site URL: [Project Guess My Number](https://gpt-3-project.vercel.app/)
