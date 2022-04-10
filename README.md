@@ -16,4 +16,9 @@ In this project I used these skills:
 
 ### Get To Know The Project
 
-- Live Site URL: [Project Guess My Number](https://gpt-3-project.vercel.app/)
+- Live Site URL: [Project Guess My Number](https://project-guess-my-number.vercel.app/)
+
+
+## Created By:
+
+- Linkedin - [Carlos A.](https://www.linkedin.com/in/carlosafonsoflach/)
